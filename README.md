@@ -10,21 +10,21 @@ https://www.autohotkey.com/download/ahk-v2.exe
 
 1. Prerequisites and PS5 setup
    • On the PS5 console:
-1. Go to Settings > System > Remote Play. 
-2. Turn on the "Enable Remote Play" option. 
-3. To turn it on remotely, go to Settings > System > Power Saving > Features Available in Rest Mode, then enable "Stay Connected to the Internet" and "Enable Turning On PS5 from Network."
+   Go to Settings > System > Remote Play. 
+   Turn on the "Enable Remote Play" option. 
+   To turn it on remotely, go to Settings > System > Power Saving > Features Available in Rest Mode, then enable "Stay Connected to the Internet" and "Enable Turning On PS5 from Network."
    
 2. Remap buttons
    • On the PS5 console:
-1. Go to Settings (the gear icon in the top-right corner of the PS5 home screen).
-2. Select Accessibility.
-3. Choose Controllers.
-4. Select Custom Button Assignments for the DualSense Wireless Controller.
-5. Toggle on Enable Custom Button Assignments.
-6. Select Customize Button Assignments.
-7. Choose the button you want to change on the controller diagram and select its replacement function (face buttons, D-pad, bumpers, and triggers can be swapped).
-8. Change button <b>R2</b> to <b>SQUARE</b>
-9. Select Apply to save your changes.
+   Go to Settings (the gear icon in the top-right corner of the PS5 home screen).
+   Select Accessibility.
+   Choose Controllers.
+   Select Custom Button Assignments for the DualSense Wireless Controller.
+   Toggle on Enable Custom Button Assignments.
+   Select Customize Button Assignments.
+   Choose the button you want to change on the controller diagram and select its replacement function (face buttons, D-pad, bumpers, and triggers can be swapped).
+   Change button <b>R2</b> to <b>SQUARE</b>
+   Select Apply to save your changes.
 
 
 
