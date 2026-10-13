@@ -8,7 +8,12 @@ https://github.com/tejasbnshetty/keyboard-ds5/releases/download/v0.1.0/KeyboardD
 Autokey v2.0
 https://www.autohotkey.com/download/ahk-v2.exe
 
-- Configure console PS5 for remote
+1. Prerequisites and PS5 setup
+• On the PS5 console:
+1. Go to Settings > System > Remote Play. 
+2. Turn on the "Enable Remote Play" option. 
+3. To turn it on remotely, go to Settings > System > Power Saving > Features Available in Rest Mode, then enable "Stay Connected to the Internet" and "Enable Turning On PS5 from Network."
+   
 - Change button R2 to SQUARE in PS5
 - Start sendhotkey.ahk
 - start Keyboard PS5, install PYPi from keyboard PS5 menu, when installation is finish got to KEYS tabs and on R2 click F6 button
