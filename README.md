@@ -9,13 +9,13 @@ Autokey v2.0
 https://www.autohotkey.com/download/ahk-v2.exe
 
 1. Prerequisites and PS5 setup
-• On the PS5 console:
+   • On the PS5 console:
 1. Go to Settings > System > Remote Play. 
 2. Turn on the "Enable Remote Play" option. 
 3. To turn it on remotely, go to Settings > System > Power Saving > Features Available in Rest Mode, then enable "Stay Connected to the Internet" and "Enable Turning On PS5 from Network."
    
 2. Remap buttons
-3. • On the PS5 console:
+   • On the PS5 console:
 1. Go to Settings (the gear icon in the top-right corner of the PS5 home screen).
 2. Select Accessibility.
 3. Choose Controllers.
