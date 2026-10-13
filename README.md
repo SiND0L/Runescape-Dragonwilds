@@ -39,6 +39,6 @@ https://www.autohotkey.com/download/ahk-v2.exe
    Select Apply to save your changes.
 
 
-- start Keyboard PS5, fellow install and then install PYPi from keyboard PS5 menu, when installation is finish got to KEYS tabs, and then create a new profile for gaming name it runescapes, and on R2 button assign F6 button. 
+- start Keyboard PS5, fellow install and then install PYPi from keyboard PS5 menu, when installation is finish got to KEYS tabs, and then create a new profile for gaming, name it runescapes, and on R2 button assign F6 button. 
 - Start sendhotkey.ahk
 - You have a auto-cliker on square button continually... 
